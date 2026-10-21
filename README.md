@@ -26,12 +26,12 @@ project/
 ## 🧩 How to Use
 1. Clone the project:
 ```
-git clone https://github.com/deveni0/profile-yousfv.git
+git clone https://github.com/luffy182010/dex-profile.git
 ```
 
 2. Open the folder:
 ```
-cd profile-yousfv
+cd dex-profile
 ```
 
 3. Run the site:
